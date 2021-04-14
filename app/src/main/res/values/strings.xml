@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Excercise1</string>
+    <string name="app_name">Exercise 1</string>
+    <string name="txEmail">Email</string>
+    <string name="txPass">Password</string>
+    <string name="buttonLogin">LOGIN</string>
+    <string name="tvAccount">Don\'t have an account?</string>
+    <string name="btnSignUp">Sign Up.</string>
 </resources>
