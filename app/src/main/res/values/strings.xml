@@ -1,8 +1,24 @@
 <resources>
-    <string name="app_name">Exercise 1</string>
-    <string name="txEmail">Email</string>
-    <string name="txPass">Password</string>
+    <string name="app_name">Exercise 082</string>
+    <string name="txEmail">\t Email</string>
+    <string name="txPass">\t Password</string>
     <string name="buttonLogin">LOGIN</string>
     <string name="tvAccount">Don\'t have an account?</string>
     <string name="btnSignUp">Sign Up.</string>
+    <string name="name">\t Name</string>
+    <string name="daftarEmail">\t Email</string>
+    <string name="daftarUname">\t Username</string>
+    <string name="daftarPhone">\t Phone Number</string>
+    <string name="daftarPass">\t Password</string>
+    <string name="daftarRePass">\t Repeat Password</string>
+    <string name="daftarSgu">Create an account.</string>
+
+    <string name="lihatdata">View Data</string>
+    <string name="editdata">Edit Data</string>
+    <string name="datakontak">Contact Data</string>
+    <string name="namaitem">Item\'s Name</string>
+    <string name="detailkontak">Contact Detail</string>
+    <string name="nama">Name</string>
+    <string name="notel">Phone Number</string>
+    <string name="liatnotel">View Phone Number</string>
 </resources>
